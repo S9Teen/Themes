@@ -11,8 +11,8 @@
   "spec": 2,
 
   "semanticColors": {
-    "HEADER_PRIMARY": ["#101010"],
-    "HEADER_SECONDARY": ["#101010"],
+    "HEADER_PRIMARY": ["#f2f3f5"],
+    "HEADER_SECONDARY": ["#b5bac1"],
     "TEXT_NORMAL": ["#dbdee1"],
     "TEXT_MUTED": ["#949ba4"],
     "INTERACTIVE_NORMAL": ["#8B1515"],
