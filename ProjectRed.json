@@ -42,8 +42,8 @@
   "rawColors": {
     "PRIMARY_600": "#101014",
     "PRIMARY_500": "#17161b",
-    "PRIMARY_630": "#848484",
-    "PRIMARY_800": "#848484",
+    "PRIMARY_630": "#101014",
+    "PRIMARY_800": "#101014",
     "BRAND_260": "#D2042D",
     "BRAND_360": "#D2042D",
     "WHITE": "#FFFFFF",
