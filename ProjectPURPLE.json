@@ -38,9 +38,9 @@
     "CHANNEL_ICON": ["#5F00D0"]
   },
   "rawColors": {
-    "PRIMARY_100": "#c4c9ce",
-    "PRIMARY_200": "#c4c9ce",
-    "PRIMARY_300": "#c4c9ce",
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#FFFFFF",
+    "PRIMARY_300": "#FFFFFF",
     "PRIMARY_360": "#c4c9ce",
     "PRIMARY_500": "#c4c9ce",
     "PRIMARY_600": "#000000",
