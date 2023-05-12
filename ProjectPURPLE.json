@@ -1,21 +1,22 @@
 {
-  "name": "Rogue",
-  "description": "a bad-ass looking Dark Grey & Red theme (DARK MODE REQUIRED)",
+  "name": "ProjectPURPLE",
+  "version": "1.0",
+  "description": "Still need some work",
   "authors": [
     {
-      "name": "Λrtful",
-      "id": "612070016845742083"
+      "name": "S9Teen#3411",
+      "id": "461299396844191745"
     }
   ],
   "semanticColors": {
     "HEADER_PRIMARY": ["#f2f3f5"],
     "HEADER_SECONDARY": ["#b5bac1"],
-    "TEXT_NORMAL": ["#FFFFFF"],
+    "TEXT_NORMAL": ["#ffffff"],
     "TEXT_MUTED": ["#949ba4"],
     "TEXT_LINK": ["#00aafc"],
-    "TEXT_DANGER": ["#CE0000"],
+    "TEXT_DANGER": ["#ae0000"],
     "INTERACTIVE_NORMAL": ["#b5bac1"],
-    "INTERACTIVE_ACTIVE": ["#9A00FF"],
+    "INTERACTIVE_ACTIVE": ["#9a00ff"],
     "INTERACTIVE_MUTED": ["#575757"],
     "BACKGROUND_PRIMARY": ["#000000"],
     "BACKGROUND_SECONDARY": ["#000000"],
@@ -35,12 +36,12 @@
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#80848e"],
     "CHAT_BACKGROUND": ["#000000"],
     "CHANNELS_DEFAULT": ["#949ba4"],
-    "CHANNEL_ICON": ["#5F00D0"]
+    "CHANNEL_ICON": ["#5f00d0"]
   },
   "rawColors": {
-    "PRIMARY_100": "#FFFFFF",
-    "PRIMARY_200": "#FFFFFF",
-    "PRIMARY_300": "#FFFFFF",
+    "PRIMARY_100": "#ffffff",
+    "PRIMARY_200": "#ffffff",
+    "PRIMARY_300": "#ffffff",
     "PRIMARY_360": "#c4c9ce",
     "PRIMARY_500": "#c4c9ce",
     "PRIMARY_600": "#000000",
@@ -56,7 +57,7 @@
     "YELLOW_300": "#400088",
     "GREEN_360": "#400088",
     "RED_560": "#400088",
-    "RED_400": "#9C53EA"
+    "RED_400": "#9c53ea"
   },
   "spec": 2
 }
