@@ -40,6 +40,10 @@
     "HEADER_SECONDARY": ["#B60000", "#B60000"]
   },
   "rawColors": {
+    "PRIMARY_600": "#101010",
+    "PRIMARY_500": "#101010",
+    "PRIMARY_630": "#101010",
+    "PRIMARY_800": "#101010",
     "BRAND_260": "#B60000",
     "BRAND_360": "#B60000",
     "WHITE": "#FFFFFF",
