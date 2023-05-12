@@ -13,7 +13,7 @@
     "TEXT_NORMAL": ["#FFFFFF"],
     "TEXT_MUTED": ["#949ba4"],
     "TEXT_LINK": ["#00aafc"],
-    "TEXT_DANGER": ["#830DEB"],
+    "TEXT_DANGER": ["#CE0000"],
     "INTERACTIVE_NORMAL": ["#b5bac1"],
     "INTERACTIVE_ACTIVE": ["#9A00FF"],
     "INTERACTIVE_MUTED": ["#575757"],
