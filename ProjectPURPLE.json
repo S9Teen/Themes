@@ -43,7 +43,7 @@
     "SPOILER_REVEALED_BACKGROUND": ["#232428"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#80848e"],
     "CHAT_BACKGROUND": ["#000000"],
-    "CHANNELS_DEFAULT": ["#000000"],
+    "CHANNELS_DEFAULT": ["#949ba4"],
     "CHANNEL_ICON": ["#633ADE"]
   },
   "rawColors": {
@@ -57,7 +57,7 @@
     "PRIMARY_630": "#1C1C1F",
     "PRIMARY_660": "#0F0F0F",
     "PRIMARY_700": "#171717",
-    "PRIMARY_800": "#111214",
+    "PRIMARY_800": "#0F0F0F",
     "BRAND_260": "#931BD1",
     "BRAND_360": "#7153D1",
     "BRAND_500": "#5865f2",
