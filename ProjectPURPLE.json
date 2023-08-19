@@ -9,7 +9,7 @@
     }
   ],
   "semanticColors": {
-    "TEXT_DANGER": ["#A20E2C"],
+    "TEXT_DANGER": ["#CC1237"],
     "INTERACTIVE_ACTIVE": ["#5C36CF"],
     "BACKGROUND_PRIMARY": ["#262626"],
     "BACKGROUND_SECONDARY": ["#121212"],
