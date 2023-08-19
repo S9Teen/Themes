@@ -11,7 +11,7 @@
   "semanticColors": {
     "TEXT_DANGER": ["#A20E2C"],
     "INTERACTIVE_ACTIVE": ["#5C36CF"],
-    "BACKGROUND_PRIMARY": ["#171717"],
+    "BACKGROUND_PRIMARY": ["#1A1A1A"],
     "BACKGROUND_SECONDARY": ["#141414"],
     "BACKGROUND_SECONDARY_ALT": ["#080808"],
     "BACKGROUND_TERTIARY": ["#0A0A0A"],
@@ -29,7 +29,7 @@
     "CHANNEL_ICON": ["#5C36CF"]
   },
   "rawColors": {
-    "PRIMARY_600": "#171717",
+    "PRIMARY_600": "#1A1A1A",
     "PRIMARY_630": "#212121",
     "PRIMARY_660": "#262626",
     "PRIMARY_700": "#1F1F1F",
