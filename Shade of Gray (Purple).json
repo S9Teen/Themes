@@ -9,7 +9,6 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#5315BF"],
     "INTERACTIVE_ACTIVE": ["#6E1EFF"],
     "INTERACTIVE_NORMAL": ["#6419E6"],
     "INTERACTIVE_MUTED": ["#420F99"],
