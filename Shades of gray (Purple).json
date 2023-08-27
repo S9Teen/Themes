@@ -28,7 +28,7 @@
     "BACKGROUND_TERTIARY": ["#0D0D0D"],
     "CHANNEL_ICON": ["#6419E6"],
     "CHANNELS_DEFAULT": ["#5315BF"],
-    "CHAT_BACKGROUND": ["#1A1A1A"],
+    "CHAT_BACKGROUND": ["#141414"],
     "TEXT_DANGER": ["#a12829"],
     "TEXT_NORMAL": ["#dbdee1"]
   },
