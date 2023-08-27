@@ -9,7 +9,7 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#3C118C"],
+    "HEADER_PRIMARY": ["#5315BF"],
     "INTERACTIVE_ACTIVE": ["#6E1EFF"],
     "INTERACTIVE_NORMAL": ["#3C118C"],
     "BACKGROUND_ACCENT": ["#262626"],
