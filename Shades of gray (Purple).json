@@ -30,7 +30,7 @@
     "CHANNELS_DEFAULT": ["#5315BF"],
     "CHAT_BACKGROUND": ["#0F0F0F"],
     "TEXT_DANGER": ["#a12829"],
-    "TEXT_NORMAL": ["#dbdee1"]
+    "TEXT_NORMAL": ["#DFE2E6"]
   },
   "rawColors": {
     "BRAND_260": "#4C15B3",
