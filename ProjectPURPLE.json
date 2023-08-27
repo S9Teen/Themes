@@ -8,7 +8,9 @@
       "id": "461299396844191745"
     }
   ],
-  "semanticColors": {
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#2E3440"],
+    "HEADER_SECONDARY": ["#2E3440"],
     "INTERACTIVE_ACTIVE": ["#5C36CF"],
     "INTERACTIVE_NORMAL": ["#5E81AC"],
     "INTERACTIVE_HOVER": ["#434C5E"],
