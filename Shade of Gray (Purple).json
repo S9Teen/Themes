@@ -22,10 +22,10 @@
     "BACKGROUND_PRIMARY": ["#121212"],
     "BACKGROUND_SECONDARY": ["#141414"],
     "BACKGROUND_SECONDARY_ALT": ["#0F0F0F"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#6419E660"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#6419E650"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#370F8040"],
     "BACKGROUND_MODIFIER_HOVER": ["#0D0D0D"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#380E8050"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#380E8060"],
     "BACKGROUND_TERTIARY": ["#0F0F0F"],
     "CHANNEL_ICON": ["#6419E6"],
     "CHANNELS_DEFAULT": ["#5814CC"],
@@ -51,9 +51,9 @@
   },
 
   "background": {
-    "blur": 0.5,
+    "blur": 0.2,
     "url": "https://media.discordapp.net/attachments/991810314062549186/1145999248387747870/nKAN3E9n.png",
-    "alpha": 0.0
+    "alpha": 0.7
   },
   "spec": 2
 }
