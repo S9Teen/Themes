@@ -28,7 +28,7 @@
     "BACKGROUND_MODIFIER_SELECTED": ["#380E8040"],
     "BACKGROUND_TERTIARY": ["#0F0F0F"],
     "CHANNEL_ICON": ["#6419E6"],
-    "CHANNELS_DEFAULT": ["#4D12B3"],
+    "CHANNELS_DEFAULT": ["#5814CC"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#431199"],
     "CHAT_BACKGROUND": ["#121212"],
     "TEXT_DANGER": ["#a12829"],
@@ -53,7 +53,7 @@
   "background": {
     "blur": 0,
     "url": "https://media.discordapp.net/attachments/991810314062549186/1145999248387747870/nKAN3E9n.png",
-    "alpha": 0.63
+    "alpha": 0.70
   },
   "spec": 2
 }
