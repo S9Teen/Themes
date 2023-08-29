@@ -48,5 +48,11 @@
     "WHITE_500": "#ffffff",
     "YELLOW_300": "#411299"
   },
+
+  "background": {
+    "blur": 0,
+    "url": "https://media.discordapp.net/attachments/991810314062549186/1145999248387747870/nKAN3E9n.png",
+    "alpha": 0.63
+  },
   "spec": 2
 }
