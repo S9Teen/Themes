@@ -31,7 +31,7 @@
     "CHANNELS_DEFAULT": ["#5814CC"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#431199"],
     "CHAT_BACKGROUND": ["#121212"],
-    "TEXT_DANGER": ["#a12829"],
+    "TEXT_DANGER": ["#A12829"],
     "TEXT_NORMAL": ["#DFE2E6"]
   },
   "rawColors": {
@@ -51,9 +51,9 @@
   },
 
   "background": {
-    "blur": 0.3,
+    "blur": 0.7,
     "url": "https://media.discordapp.net/attachments/991810314062549186/1145999248387747870/nKAN3E9n.png",
-    "alpha": 0.8
+    "alpha": 0.1
   },
   "spec": 2
 }
