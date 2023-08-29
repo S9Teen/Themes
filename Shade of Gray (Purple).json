@@ -51,9 +51,9 @@
   },
 
   "background": {
-    "blur": 0,
+    "blur": 0.5,
     "url": "https://media.discordapp.net/attachments/991810314062549186/1145999248387747870/nKAN3E9n.png",
-    "alpha": 0.70
+    "alpha": 0.7
   },
   "spec": 2
 }
