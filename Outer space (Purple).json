@@ -1,5 +1,5 @@
 {
-  "name": "Shades of Gray (Purple)",
+  "name": "Outer space(Purple)",
   "version": "1.0",
   "description": "Make everything a bit darker",
   "authors": [
@@ -12,7 +12,8 @@
     "INTERACTIVE_ACTIVE": ["#6E1EFF"],
     "INTERACTIVE_HOVER": ["#420F99"],
     "INTERACTIVE_NORMAL": ["#6419E6"],
-    "INTERACTIVE_MUTED": ["#420F99"],
+    "INTERACTIVE_MUTED": ["#420F99"],
+
     "BACKGROUND_ACCENT": ["#262626"],
     "BACKGROUND_FLOATING": ["#212121"],
     "BACKGROUND_MENTIONED": ["#370F8050"],
@@ -51,7 +52,7 @@
   },
 "background": {
     "blur": 0,
-    "url": "https://cdn.discordapp.com/attachments/991810314062549186/1145999248387747870/nKAN3E9n.png",
+    "url": "https://cdn.discordapp.com/attachments/985274093299453985/1147112625885413467/uSv6UFFc.png",
     "alpha": 0.60
   },
   "spec": 2
