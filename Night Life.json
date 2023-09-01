@@ -1,7 +1,7 @@
 {
-  "name": "Into the void",
+  "name": "Night Life",
   "version": "1.0",
-  "description": "Make everything a bit darker",
+  "description": "WIP",
   "authors": [
     {
       "name": "S9Teen",
@@ -51,9 +51,9 @@
     "YELLOW_300": "#411299"
   },
 "background": {
-    "blur": 0.2,
-    "url": "https://cdn.discordapp.com/attachments/991810314062549186/1146050979515609168/4aV12e4q.jpg",
-    "alpha": 0.50
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/1147119209646665889/1147119322607648768/uiNfYhII.jpg",
+    "alpha": 0.7
   },
   "spec": 2
 }
