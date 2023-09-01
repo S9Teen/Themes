@@ -9,10 +9,10 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#fff"],
+    "HEADER_PRIMARY": ["#6A0DAD"],
     "HEADER_SECONDARY": ["#fff"],
     "INTERACTIVE_ACTIVE": ["#fff"],
-    "INTERACTIVE_HOVER": ["#fff"],
+    "INTERACTIVE_HOVER": ["#6A0DAD"],
     "INTERACTIVE_NORMAL": ["#fff"],
     "INTERACTIVE_MUTED": ["#fff"],
     "BACKGROUND_ACCENT": ["#262626"],
