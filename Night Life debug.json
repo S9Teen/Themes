@@ -1,0 +1,59 @@
+{
+  "name": "Night Life",
+  "version": "1.0",
+  "description": "Darker default theme with a purple accent",
+  "authors": [
+    {
+      "name": "S9Teen",
+      "id": "461299396844191745"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#6419E6"],
+    "INTERACTIVE_ACTIVE": ["#8936F0"],
+    "INTERACTIVE_HOVER": ["#420F99"],
+    "INTERACTIVE_NORMAL": ["#5F00CC"],
+    "INTERACTIVE_MUTED": ["#420F99"],
+    "BACKGROUND_ACCENT": ["#262626"],
+    "BACKGROUND_FLOATING": ["#212121"],
+    "BACKGROUND_MENTIONED": ["#370F8050"],
+    "BACKGROUND_MESSAGE_HOVER": ["#1B0840"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#1A1A1A"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#141414"],
+    "BACKGROUND_PRIMARY": ["#121212"],
+    "BACKGROUND_SECONDARY": ["#141414"],
+    "BACKGROUND_SECONDARY_ALT": ["#0F0F0F"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#160633"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#370F8040"],
+    "BACKGROUND_MODIFIER_HOVER": ["#0D0D0D"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#380E8060"],
+    "BACKGROUND_TERTIARY": ["#0F0F0F"],
+    "CHANNEL_ICON": ["#7800FF"],
+    "CHANNELS_DEFAULT": ["#5814CC"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#431199"],
+    "CHAT_BACKGROUND": ["#121212"],
+    "TEXT_DANGER": ["#A12829"],
+    "TEXT_NORMAL": ["#DFE2E6"]
+  },
+  "rawColors": {
+    "BRAND_260": "#4C15B3",
+    "BRAND_360": "#8936F0",
+    "BRAND_500": "#4714A6",
+    "BRAND_560": "#310E73",
+    "GREEN_360": "#6419E6",
+    "PRIMARY_600": "#121212",
+    "PRIMARY_630": "#141414",
+    "PRIMARY_660": "#1F1F1F",
+    "PRIMARY_700": "#1A1A1A",
+    "PRIMARY_800": "#121212",
+    "RED_400": "#6E1EFF",
+    "WHITE_500": "#ffffff",
+    "YELLOW_300": "#411299"
+  },
+  "background": {
+    "blur": 0.6,
+    "url": "https://cdn.discordapp.com/attachments/991810314062549186/1145999248387747870/nKAN3E9n.png",
+    "alpha": 0.4
+  },
+  "spec": 2
+}
