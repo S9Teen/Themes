@@ -51,9 +51,9 @@
     "YELLOW_300": "#411299"
   },
 "background": {
-    "blur": 0,
+    "blur": 0.20,
     "url": "https://cdn.discordapp.com/attachments/985274093299453985/1147112625885413467/uSv6UFFc.png",
-    "alpha": 0.60
+    "alpha": 0.40
   },
   "spec": 2
 }
