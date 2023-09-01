@@ -1,5 +1,5 @@
 {
-  "name": "Outer space(Purple)",
+  "name": "Outer space (Purple)",
   "version": "1.0",
   "description": "Make everything a bit darker",
   "authors": [
@@ -53,7 +53,7 @@
 "background": {
     "blur": 0.20,
     "url": "https://cdn.discordapp.com/attachments/985274093299453985/1147112625885413467/uSv6UFFc.png",
-    "alpha": 0.40
+    "alpha": 0.30
   },
   "spec": 2
 }
