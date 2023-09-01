@@ -53,14 +53,13 @@
     "BRAND_500": "#5831F2",
     "BRAND_560": "#6A62BE",
 
-    "GREEN_360": "#6243FF",
-
     "PRIMARY_600": "#121212",
     "PRIMARY_630": "#141414",
     "PRIMARY_660": "#1F1F1F",
     "PRIMARY_700": "#1A1A1A",
     "PRIMARY_800": "#121212",
 
+    "GREEN_360": "#6243FF",
     "RED_400": "#C70C4D",
     "WHITE_500": "#ffffff",
     "YELLOW_300": "#411299"
