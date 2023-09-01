@@ -1,7 +1,7 @@
 {
   "name": "Night Life",
   "version": "1.0",
-  "description": "A darker default theme with a purple accent",
+  "description": "Darker default theme with a purple accent",
   "authors": [
     {
       "name": "S9Teen",
@@ -9,10 +9,10 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY":  ["#6419E6"],
-    "INTERACTIVE_ACTIVE": ["#6E1EFF"],
+    "HEADER_PRIMARY": ["#6419E6"],
+    "INTERACTIVE_ACTIVE": ["#8936F0"],
     "INTERACTIVE_HOVER": ["#420F99"],
-    "INTERACTIVE_NORMAL": ["#6419E6"],
+    "INTERACTIVE_NORMAL": ["#5F00CC"],
     "INTERACTIVE_MUTED": ["#420F99"],
     "BACKGROUND_ACCENT": ["#262626"],
     "BACKGROUND_FLOATING": ["#212121"],
@@ -28,7 +28,7 @@
     "BACKGROUND_MODIFIER_HOVER": ["#0D0D0D"],
     "BACKGROUND_MODIFIER_SELECTED": ["#380E8060"],
     "BACKGROUND_TERTIARY": ["#0F0F0F"],
-    "CHANNEL_ICON": ["#6419E6"],
+    "CHANNEL_ICON": ["#7800FF"],
     "CHANNELS_DEFAULT": ["#5814CC"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#431199"],
     "CHAT_BACKGROUND": ["#121212"],
@@ -50,7 +50,7 @@
     "WHITE_500": "#ffffff",
     "YELLOW_300": "#411299"
   },
-"background": {
+  "background": {
     "blur": 0.6,
     "url": "https://cdn.discordapp.com/attachments/991810314062549186/1145999248387747870/nKAN3E9n.png",
     "alpha": 0.4
