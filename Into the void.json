@@ -1,5 +1,5 @@
 {
-  "name": "Outer space (Purple)",
+  "name": "Into the void",
   "version": "1.0",
   "description": "Make everything a bit darker",
   "authors": [
@@ -51,9 +51,9 @@
     "YELLOW_300": "#411299"
   },
 "background": {
-    "blur": 0.20,
-    "url": "https://cdn.discordapp.com/attachments/985274093299453985/1147112625885413467/uSv6UFFc.png",
-    "alpha": 0.30
+    "blur": 0.2,
+    "url": "https://cdn.discordapp.com/attachments/985274093299453985/1147114443117953054/W0i49liJ.jpg",
+    "alpha": 0.50
   },
   "spec": 2
 }
