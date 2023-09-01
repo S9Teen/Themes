@@ -38,7 +38,7 @@
   },
   "rawColors": {
     "BRAND_260": "#4C15B3",
-    "BRAND_360": "#A32CC4",
+    "BRAND_360": "#fff",
     "BRAND_500": "#4714A6",
     "BRAND_560": "#7851A9",
     "GREEN_360": "#3E2F84",
@@ -47,7 +47,7 @@
     "PRIMARY_660": "#1F1F1F",
     "PRIMARY_700": "#1A1A1A",
     "PRIMARY_800": "#121212",
-    "RED_400": "#880085",
+    "RED_400": "#fff",
     "WHITE_500": "#ffffff",
     "YELLOW_300": "#411299"
   },
