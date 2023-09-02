@@ -1,0 +1,51 @@
+{
+  "name": "Night Life (Dark)",
+  "version": "1.0",
+  "description": "No background and less purple",
+  "authors": [
+    {
+      "name": "S9Teen",
+      "id": "461299396844191745"
+    }
+  ],
+  "semanticColors": {
+    "INTERACTIVE_ACTIVE": ["#8A80FF","#8A80FF","#8A80FF"],
+    "INTERACTIVE_NORMAL": ["#856AD6","#856AD6","#856AD6"],
+    "INTERACTIVE_MUTED": ["#4B458A","#4B458A","#4B458A"],
+    "BACKGROUND_ACCENT": ["#262626", "#6d6f78", "#161719"],
+    "BACKGROUND_FLOATING": ["#212121", "#ffffff", "#0c0c0d"],
+    "BACKGROUND_MENTIONED": ["#370F8060","#370F8060","#370F8060"],
+    "BACKGROUND_MESSAGE_HOVER": ["#1B0840","#1B0840","#1B0840"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#1A1A1A", "#f9f9f9", "#000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#141414", "#ffffff", "#060607"],
+    "BACKGROUND_PRIMARY": ["#121212", "#ffffff", "#020202"],
+    "BACKGROUND_SECONDARY": ["#141414", "#f2f3f5", "#0c0c0d"],
+    "BACKGROUND_SECONDARY_ALT": ["#0F0F0F", "#ebedef", "#111214"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#1606339a", "#80848e3d", "#383a407a"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#370F804a", "#80848e33", "#383a407a"],
+    "BACKGROUND_MODIFIER_HOVER": ["#0D0D0D4d", "#80848e29", "#383a4066"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#380E8099", "#80848e3d", "#383a4099"],
+    "BACKGROUND_TERTIARY": ["#0F0F0F", "#e3e5e8", "#060607"],
+    "CHANNEL_ICON": ["#756CD9","#756CD9","#756CD9"],
+    "CHAT_BACKGROUND": ["#121212", "#ffffff", "#000000"],
+    "TEXT_DANGER": ["#A12829", "#a12829", "#fa777b"],
+    "TEXT_NORMAL": ["#DFE2E6", "#313338", "#c4c9ce"]
+  },
+  "rawColors": {
+    "BRAND_260": "#FAE6FA",
+    "BRAND_360": "#9E68FF",
+    "BRAND_500": "#5831F2",
+    "BRAND_560": "#4719C4",
+    "GREEN_360": "#6243FF",
+    "PRIMARY_230": "856AD6",
+    "PRIMARY_600": "#121212",
+    "PRIMARY_630": "#141414",
+    "PRIMARY_660": "#1F1F1F",
+    "PRIMARY_700": "#1A1A1A",
+    "PRIMARY_800": "#121212",
+    "RED_400": "#882BD9",
+    "WHITE_500": "#ffffff",
+    "YELLOW_300": "#411299"
+  },
+  "spec": 2
+}
