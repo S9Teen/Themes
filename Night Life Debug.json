@@ -328,7 +328,7 @@
         "darker": "#31323f",
         "amoled": "#21222b",
         "light": "#e3e5e8",
-        "dark": "#1e1f22"
+        "dark": "#ffffff"
       }
     },
     "BUTTON_OUTLINE_DANGER_BACKGROUND_ACTIVE": {
