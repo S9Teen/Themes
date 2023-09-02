@@ -93,6 +93,34 @@
         "dark": "#f0b232"
       }
     },
+    "BACKGROUND_MESSAGE_AUTOMOD": {
+      "source": {
+        "darker": "RED_345",
+        "amoled": "RED_345",
+        "light": "RED_400",
+        "dark": "RED_400"
+      },
+      "colors": {
+        "darker": "#fa777b",
+        "amoled": "#fa777b",
+        "light": "#f23f43",
+        "dark": "#f23f43"
+      }
+    },
+    "BACKGROUND_MESSAGE_AUTOMOD_HOVER": {
+      "source": {
+        "darker": "RED_400",
+        "amoled": "RED_400",
+        "light": "RED_400",
+        "dark": "RED_400"
+      },
+      "colors": {
+        "darker": "#f23f43",
+        "amoled": "#f23f43",
+        "light": "#f23f43",
+        "dark": "#f23f43"
+      }
+    },
     "BACKGROUND_MESSAGE_HIGHLIGHT": {
       "source": {
         "darker": "BRAND_360",
@@ -303,6 +331,76 @@
         "dark": "#1e1f22"
       }
     },
+    "BUTTON_OUTLINE_DANGER_BACKGROUND_ACTIVE": {
+      "source": {
+        "darker": "RED_460",
+        "amoled": "RED_460",
+        "light": "RED_460",
+        "dark": "RED_460"
+      },
+      "colors": {
+        "darker": "#bb3033",
+        "amoled": "#bb3033",
+        "light": "#bb3033",
+        "dark": "#bb3033"
+      }
+    },
+    "BUTTON_OUTLINE_DANGER_BACKGROUND_HOVER": {
+      "source": {
+        "darker": "RED_430",
+        "amoled": "RED_430",
+        "light": "RED_430",
+        "dark": "RED_430"
+      },
+      "colors": {
+        "darker": "#da373c",
+        "amoled": "#da373c",
+        "light": "#da373c",
+        "dark": "#da373c"
+      }
+    },
+    "BUTTON_OUTLINE_DANGER_BORDER": {
+      "source": {
+        "darker": "RED_400",
+        "amoled": "RED_400",
+        "light": "RED_430",
+        "dark": "RED_400"
+      },
+      "colors": {
+        "darker": "#f23f43",
+        "amoled": "#f23f43",
+        "light": "#da373c",
+        "dark": "#f23f43"
+      }
+    },
+    "BUTTON_OUTLINE_DANGER_BORDER_ACTIVE": {
+      "source": {
+        "darker": "RED_430",
+        "amoled": "RED_430",
+        "light": "RED_430",
+        "dark": "RED_430"
+      },
+      "colors": {
+        "darker": "#da373c",
+        "amoled": "#da373c",
+        "light": "#da373c",
+        "dark": "#da373c"
+      }
+    },
+    "BUTTON_OUTLINE_DANGER_BORDER_HOVER": {
+      "source": {
+        "darker": "RED_430",
+        "amoled": "RED_430",
+        "light": "RED_430",
+        "dark": "RED_430"
+      },
+      "colors": {
+        "darker": "#da373c",
+        "amoled": "#da373c",
+        "light": "#da373c",
+        "dark": "#da373c"
+      }
+    },
     "CHANNEL_ICON": {
       "source": {
         "darker": "DONTUSE_10",
@@ -385,6 +483,34 @@
         "amoled": "#a5aabc",
         "light": "#4e5058",
         "dark": "#b5bac1"
+      }
+    },
+    "INFO_DANGER_BACKGROUND": {
+      "source": {
+        "darker": "RED_400",
+        "amoled": "RED_400",
+        "light": "RED_430",
+        "dark": "RED_400"
+      },
+      "colors": {
+        "darker": "#f23f43",
+        "amoled": "#f23f43",
+        "light": "#da373c",
+        "dark": "#f23f43"
+      }
+    },
+    "INFO_DANGER_FOREGROUND": {
+      "source": {
+        "darker": "RED_400",
+        "amoled": "RED_400",
+        "light": "RED_430",
+        "dark": "RED_400"
+      },
+      "colors": {
+        "darker": "#f23f43",
+        "amoled": "#f23f43",
+        "light": "#da373c",
+        "dark": "#f23f43"
       }
     },
     "INTERACTIVE_ACTIVE": {
@@ -511,6 +637,202 @@
         "amoled": "#dcdee4",
         "light": "#313338",
         "dark": "#dbdee1"
+      }
+    },
+    "STATUS_DANGER": {
+      "source": {
+        "darker": "RED_400",
+        "amoled": "RED_400",
+        "light": "RED_430",
+        "dark": "RED_400"
+      },
+      "colors": {
+        "darker": "#f23f43",
+        "amoled": "#f23f43",
+        "light": "#da373c",
+        "dark": "#f23f43"
+      }
+    },
+    "STATUS_DANGER_BACKGROUND": {
+      "source": {
+        "darker": "RED_400",
+        "amoled": "RED_400",
+        "light": "RED_430",
+        "dark": "RED_400"
+      },
+      "colors": {
+        "darker": "#f23f43",
+        "amoled": "#f23f43",
+        "light": "#da373c",
+        "dark": "#f23f43"
+      }
+    },
+    "STATUS_DANGER_TEXT": {
+      "source": {
+        "darker": "WHITE_500",
+        "amoled": "WHITE_500",
+        "light": "WHITE_500",
+        "dark": "WHITE_500"
+      },
+      "colors": {
+        "darker": "#ffffff",
+        "amoled": "#ffffff",
+        "light": "#ffffff",
+        "dark": "#ffffff"
+      }
+    },
+    "STATUS_DND": {
+      "source": {
+        "darker": "RED_400",
+        "amoled": "RED_400",
+        "light": "RED_430",
+        "dark": "RED_400"
+      },
+      "colors": {
+        "darker": "#f23f43",
+        "amoled": "#f23f43",
+        "light": "#da373c",
+        "dark": "#f23f43"
+      }
+    },
+    "STATUS_IDLE": {
+      "source": {
+        "darker": "YELLOW_300",
+        "amoled": "YELLOW_300",
+        "light": "YELLOW_400",
+        "dark": "YELLOW_300"
+      },
+      "colors": {
+        "darker": "#f0b232",
+        "amoled": "#f0b232",
+        "light": "#af7615",
+        "dark": "#f0b232"
+      }
+    },
+    "STATUS_OFFLINE": {
+      "source": {
+        "darker": "DONTUSE_9",
+        "amoled": "DONTUSE_9",
+        "light": "PRIMARY_460",
+        "dark": "PRIMARY_360"
+      },
+      "colors": {
+        "darker": "#9297ac",
+        "amoled": "#9297ac",
+        "light": "#5c5e66",
+        "dark": "#949ba4"
+      }
+    },
+    "STATUS_ONLINE": {
+      "source": {
+        "darker": "GREEN_360",
+        "amoled": "GREEN_360",
+        "light": "GREEN_400",
+        "dark": "GREEN_360"
+      },
+      "colors": {
+        "darker": "#23a55a",
+        "amoled": "#23a55a",
+        "light": "#24934e",
+        "dark": "#23a55a"
+      }
+    },
+    "STATUS_POSITIVE": {
+      "source": {
+        "darker": "GREEN_360",
+        "amoled": "GREEN_360",
+        "light": "GREEN_400",
+        "dark": "GREEN_360"
+      },
+      "colors": {
+        "darker": "#23a55a",
+        "amoled": "#23a55a",
+        "light": "#24934e",
+        "dark": "#23a55a"
+      }
+    },
+    "STATUS_POSITIVE_BACKGROUND": {
+      "source": {
+        "darker": "GREEN_430",
+        "amoled": "GREEN_430",
+        "light": "GREEN_430",
+        "dark": "GREEN_430"
+      },
+      "colors": {
+        "darker": "#248045",
+        "amoled": "#248045",
+        "light": "#248045",
+        "dark": "#248045"
+      }
+    },
+    "STATUS_POSITIVE_TEXT": {
+      "source": {
+        "darker": "WHITE_500",
+        "amoled": "WHITE_500",
+        "light": "WHITE_500",
+        "dark": "WHITE_500"
+      },
+      "colors": {
+        "darker": "#ffffff",
+        "amoled": "#ffffff",
+        "light": "#ffffff",
+        "dark": "#ffffff"
+      }
+    },
+    "STATUS_SPEAKING": {
+      "source": {
+        "darker": "GREEN_360",
+        "amoled": "GREEN_360",
+        "light": "GREEN_360",
+        "dark": "GREEN_360"
+      },
+      "colors": {
+        "darker": "#23a55a",
+        "amoled": "#23a55a",
+        "light": "#23a55a",
+        "dark": "#23a55a"
+      }
+    },
+    "STATUS_WARNING": {
+      "source": {
+        "darker": "YELLOW_300",
+        "amoled": "YELLOW_300",
+        "light": "YELLOW_400",
+        "dark": "YELLOW_300"
+      },
+      "colors": {
+        "darker": "#f0b232",
+        "amoled": "#f0b232",
+        "light": "#af7615",
+        "dark": "#f0b232"
+      }
+    },
+    "STATUS_WARNING_BACKGROUND": {
+      "source": {
+        "darker": "YELLOW_300",
+        "amoled": "YELLOW_300",
+        "light": "YELLOW_400",
+        "dark": "YELLOW_300"
+      },
+      "colors": {
+        "darker": "#f0b232",
+        "amoled": "#f0b232",
+        "light": "#af7615",
+        "dark": "#f0b232"
+      }
+    },
+    "STATUS_WARNING_TEXT": {
+      "source": {
+        "darker": "BLACK_500",
+        "amoled": "BLACK_500",
+        "light": "WHITE_500",
+        "dark": "BLACK_500"
+      },
+      "colors": {
+        "darker": "#000000",
+        "amoled": "#000000",
+        "light": "#ffffff",
+        "dark": "#000000"
       }
     },
     "TEXT_DANGER": {
