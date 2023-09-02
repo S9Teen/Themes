@@ -443,6 +443,76 @@
         "dark": "#b5bac1"
       }
     },
+    "LEGACY_BLUR_FALLBACK_DEFAULT": {
+      "source": {
+        "darker": "PRIMARY_660",
+        "amoled": "PRIMARY_660",
+        "light": "PRIMARY_230",
+        "dark": "PRIMARY_660"
+      },
+      "colors": {
+        "darker": "#232428",
+        "amoled": "#232428",
+        "light": "#dbdee1",
+        "dark": "#232428"
+      }
+    },
+    "REDESIGN_ACTIVITY_CARD_OVERFLOW_BACKGROUND": {
+      "source": {
+        "darker": "DONTUSE_17",
+        "amoled": "PRIMARY_630",
+        "light": "PRIMARY_230",
+        "dark": "PRIMARY_630"
+      },
+      "colors": {
+        "darker": "#2b2c38",
+        "amoled": "#2b2d31",
+        "light": "#dbdee1",
+        "dark": "#2b2d31"
+      }
+    },
+    "REDESIGN_BUTTON_OVERLAY_PRESSED_BACKGROUND": {
+      "source": {
+        "darker": "DONTUSE_4",
+        "amoled": "DONTUSE_4",
+        "light": "PRIMARY_230",
+        "dark": "PRIMARY_230"
+      },
+      "colors": {
+        "darker": "#dcdee4",
+        "amoled": "#dcdee4",
+        "light": "#dbdee1",
+        "dark": "#dbdee1"
+      }
+    },
+    "REDESIGN_BUTTON_SECONDARY_ALT_TEXT": {
+      "source": {
+        "darker": "DONTUSE_3",
+        "amoled": "DONTUSE_4",
+        "light": "PRIMARY_600",
+        "dark": "PRIMARY_230"
+      },
+      "colors": {
+        "darker": "#e4e5ea",
+        "amoled": "#dcdee4",
+        "light": "#313338",
+        "dark": "#dbdee1"
+      }
+    },
+    "REDESIGN_BUTTON_SECONDARY_TEXT": {
+      "source": {
+        "darker": "DONTUSE_3",
+        "amoled": "DONTUSE_4",
+        "light": "PRIMARY_600",
+        "dark": "PRIMARY_230"
+      },
+      "colors": {
+        "darker": "#e4e5ea",
+        "amoled": "#dcdee4",
+        "light": "#313338",
+        "dark": "#dbdee1"
+      }
+    },
     "TEXT_DANGER": {
       "source": {
         "darker": "RED_345",
