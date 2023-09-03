@@ -62,7 +62,7 @@
         "darker": "#262732",
         "amoled": "#121319",
         "light": "#ffffff",
-        "dark": "#111214"
+        "dark": "#fff"
       }
     },
     "BACKGROUND_MENTIONED": {
@@ -875,7 +875,7 @@
     "PRIMARY_630": "#141414",
     "PRIMARY_660": "#1F1F1F",
     "PRIMARY_700": "#fff",
-    "PRIMARY_800": "#121212",
+    "PRIMARY_800": "#fff",
     "RED_400": "#882BD9",
     "WHITE_500": "#ffffff",
     "YELLOW_300": "#411299"
