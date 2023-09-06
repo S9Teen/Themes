@@ -9,7 +9,7 @@
     }
   ],
   "semanticColors": {
-      "INTERACTIVE_ACTIVE": ["#FFF"], 
+      "INTERACTIVE_ACTIVE": ["#8A80FF"], 
       "INTERACTIVE_NORMAL": ["#856AD6"], 
       "INTERACTIVE_MUTED": ["#4B458A"], 
       "BACKGROUND_ACCENT": ["#262626"], 
