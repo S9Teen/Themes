@@ -35,7 +35,7 @@
         "TEXT_NORMAL": ["#DFE2E6"] 
    }, 
    "rawColors": {
-   	"BRAND_260": "#FAE6FA", 
+      	"BRAND_260": "#FAE6FA", 
        "BRAND_360": "#9E68FF", 
        "BRAND_500": "#5831F2", 
        "BRAND_560": "#6A62BE", 
