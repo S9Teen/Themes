@@ -1,6 +1,6 @@
 {
-  "name": "Night Life (Default)",
-  "version": "1.2",
+  "name": "Night Life (Less Purple)",
+  "version": "1.0",
   "description": "Darker default theme with a purple accent",
   "authors": [
     {
@@ -9,8 +9,6 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#756CD9"],
-    "HEADER_SECONDARY": ["#6F66CC"],
     "INTERACTIVE_ACTIVE": ["#8A80FF"],
     "INTERACTIVE_NORMAL": ["#7059B3"],
     "INTERACTIVE_MUTED": ["#4B458A"],
@@ -28,7 +26,6 @@
     "BACKGROUND_MODIFIER_HOVER": ["#0D0D0D"],
     "BACKGROUND_MODIFIER_SELECTED": ["#380E8060"],
     "BACKGROUND_TERTIARY": ["#0F0F0F"],
-    "CHANNELS_DEFAULT": ["#756CD9"],
     "CHANNEL_ICON": ["#756CD9"],
     "CHAT_BACKGROUND": ["#121212"],
     "TEXT_DANGER": ["#A12829"],
