@@ -9,8 +9,8 @@
      } 
    ], 
    "semanticColors": { 
-        "HEADER_PRIMARY": ["#8A80FF"],
-        "HEADER_SECONDARY": ["#756CD9"],   
+        "HEADER_PRIMARY": ["#756CD9"],
+        "HEADER_SECONDARY": ["#6F66CC"],   
         "INTERACTIVE_ACTIVE": ["#8A80FF"], 
         "INTERACTIVE_NORMAL": ["#7059B3"], 
         "INTERACTIVE_MUTED": ["#4B458A"], 
@@ -39,7 +39,7 @@
        "BRAND_360": "#8A80FF", 
        "BRAND_560": "#4719C4", 
        "GREEN_360": "#6243FF", 
-       "PRIMARY_230": "#7059B3", 
+       "PRIMARY_230": "#8A80FF", 
        "PRIMARY_600": "#121212", 
        "PRIMARY_630": "#141414", 
        "PRIMARY_660": "#1F1F1F", 
